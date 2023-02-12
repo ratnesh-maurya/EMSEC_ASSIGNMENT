@@ -1,3 +1,7 @@
+## NAME- RATNESH MAURYA 
+## Department : Computer science and Engineering
+## Passing Year : 2024
+
 ![Screenshot_20230212_143143](https://user-images.githubusercontent.com/85143283/218302035-dbfce9b5-8a54-4c4a-bd79-26d83365b743.png) 
 # EMSEC_ASSIGNMENT
 
