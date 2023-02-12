@@ -6,6 +6,7 @@ Challenge Description
 Build a basic backend REST API for a to-do application which implements the following milestones:
 
 Milestone 1: Connect Backend with DB (20 Marks)
+
 Connect the backend to a database of your choice (MongoDB preferred).
 Milestone 2: Create CRUD APIs (50 Marks)
 Create a task table/collection in the database.
