@@ -17,7 +17,8 @@
 
 7. #### /api/users/export - A GET request to this endpoint will retrieve all the data in the database and convert it to a CSV file, which will be returned as a response.
 
-* ### The code uses the PyMongo library to interact with the MongoDB database and the Flask-CORS library to handle cross-origin resource sharing (CORS) issues. The script starts by initializing a Flask application and setting up the necessary configurations, including a MongoDB URI to connect to the database and CORS headers.
+* ### The code uses the PyMongo library to interact with the MongoDB database and the Flask-CORS library to handle cross-origin resource sharing (CORS) issues. The script starts by initializing a Flask application and setting up the necessary configurations, including a MongoDB URI to connect to  database and CORS headers.
+
 
  * ### The code also implements error handling and debugging, which can be enabled by setting the debug argument to True when starting the Flask application.
 
