@@ -1,4 +1,6 @@
+![Screenshot_20230212_143143](https://user-images.githubusercontent.com/85143283/218302035-dbfce9b5-8a54-4c4a-bd79-26d83365b743.png) 
 # EMSEC_ASSIGNMENT
+
 EMSEC is a research company that provides services and products related to security research, with a special focus on Cryptographic and Electromagnetic Side-Channel (TEMPEST) security.
 
 ## Challenge Description
@@ -19,4 +21,3 @@ Create an API to export the task table/collection to a CSV file.
 The API should download the CSV file.
 #####  Bonus Milestone 5: Host on Cloud Platform (Optional)
 Host the backend application on any cloud platform of your choice.
-
